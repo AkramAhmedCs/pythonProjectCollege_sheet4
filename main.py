@@ -27,7 +27,6 @@ mm.getAverage(myList)
 
 import Calculator
 
-# Perform arithmetic operations
 num1 = 10
 num2 = 5
 
@@ -43,7 +42,6 @@ print("Current Date and Time:", current_datetime)
 
 import data_processing
 
-# Given list
 given_list = [5, 2, 7, 1, 9]
 
 
